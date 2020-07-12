@@ -9,7 +9,7 @@
     Width="1920"
     Height="1080"
     Background="#202020"
-    ForceCursor="False"
+    Cursor="None"
     KeyDown="Window_KeyDown"
     Loaded="Window_Loaded"
     MouseDown="Window_MouseDown"
