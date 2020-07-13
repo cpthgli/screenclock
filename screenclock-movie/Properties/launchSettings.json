@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "screenclock-movie": {
+      "commandName": "Project"
+    },
+    "config": {
+      "commandName": "Project",
+      "commandLineArgs": "/c:67984"
+    },
+    "preview": {
+      "commandName": "Project",
+      "commandLineArgs": "/p 68014"
+    },
+    "screensaver": {
+      "commandName": "Project",
+      "commandLineArgs": "/s"
+    }
+  }
+}
